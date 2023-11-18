@@ -1,0 +1,14 @@
+C:\Users\riyab\source\repos\program\program\bin\Debug\net6.0\program.exe
+C:\Users\riyab\source\repos\program\program\bin\Debug\net6.0\program.deps.json
+C:\Users\riyab\source\repos\program\program\bin\Debug\net6.0\program.runtimeconfig.json
+C:\Users\riyab\source\repos\program\program\bin\Debug\net6.0\program.dll
+C:\Users\riyab\source\repos\program\program\bin\Debug\net6.0\program.pdb
+C:\Users\riyab\source\repos\program\program\obj\Debug\net6.0\program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riyab\source\repos\program\program\obj\Debug\net6.0\program.AssemblyInfoInputs.cache
+C:\Users\riyab\source\repos\program\program\obj\Debug\net6.0\program.AssemblyInfo.cs
+C:\Users\riyab\source\repos\program\program\obj\Debug\net6.0\program.csproj.CoreCompileInputs.cache
+C:\Users\riyab\source\repos\program\program\obj\Debug\net6.0\program.dll
+C:\Users\riyab\source\repos\program\program\obj\Debug\net6.0\refint\program.dll
+C:\Users\riyab\source\repos\program\program\obj\Debug\net6.0\program.pdb
+C:\Users\riyab\source\repos\program\program\obj\Debug\net6.0\program.genruntimeconfig.cache
+C:\Users\riyab\source\repos\program\program\obj\Debug\net6.0\ref\program.dll
